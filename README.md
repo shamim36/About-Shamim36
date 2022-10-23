@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Healer36
 - 👀 I’m interested in Web & App Development.
-- 👨‍🎓 Experience in C,Java,Python,C++,HTML.
+- 👨‍🎓 Experience in 🟢C,🟢Java,🟧Python,🟧C++,🟧HTML.
 - 🌱 I’m currently learning java.
 - 📫 How to reach me satokirigaya7@gmail.com.
 
