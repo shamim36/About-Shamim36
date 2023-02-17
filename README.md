@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Healer36
 - 👀 I’m interested in Web & App Development.
 - 👨‍🎓 Experience in 🟢C,🟢Java,🟢Xml,🟧JavaFX.
-- 🌱 I’m currently learning java.
+- 🌱 I’m currently learning Android Studio (JAVA).
 - 📫 How to reach me satokirigaya7@gmail.com.
 
 <!---
