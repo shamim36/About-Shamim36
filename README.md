@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Healer36
-- 👀 I’m interested in Web & App Development.
-- 👨‍🎓 Experience in 🟢C,🟢Java,🟢Xml,🟢HTML,🟢CSS,🟧JavaFX.
-- 🌱 I’m currently learning randomly.
-- 📫 How to reach me satokirigaya7@gmail.com.
+-👋 Hey, I’m Md Shamim Ahamed, a curious and passionate web and app developer.
+-👨‍🎓 I can code in C, Java, XML, HTML, CSS, JavaFX, Dart, and build awesome apps with Java and Flutter.
+-🌱 I’m always learning something new and random that sparks my interest.
+-📫 Feel free to contact me at satokirigaya7@gmail.com. 😊
 
 <!---
 Healer36/Healer36 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
